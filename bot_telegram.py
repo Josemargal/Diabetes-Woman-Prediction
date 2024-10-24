@@ -83,7 +83,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("¡Hola! Soy un bot de Telegram especializado en diabetes. Envía un mensaje y te responderé sobre cualquier aspecto relacionado con la diabetes.")
 
 if __name__ == '__main__':
-    application = ApplicationBuilder().token('7685990661:AAFPQLZu_IzDBJX5ETtLNd-uyPj5xPz2RcQ').build()
+    application = ApplicationBuilder().token('poner token de telegram aqui').build()
 
     application.add_handler(CommandHandler("start", start))
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
