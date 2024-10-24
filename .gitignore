@@ -1,0 +1,9 @@
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Entornos virtuales
+myenv/
+
+# Archivos grandes
+*.pkl
