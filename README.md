@@ -76,6 +76,10 @@ Se utiliza LightGBM como el modelo principal, debido a su capacidad para manejar
 - El modelo entrenado alcanza una precisión (accuracy) de alrededor del 90%, lo que significa que puede predecir correctamente si un paciente tiene diabetes o no en 9 de cada 10 casos..
 - Las variables más importantes para predecir la diabetes fueron los niveles de glucosa en sangre y los embarazos.
 
+![Niveles de glucosa](images/newplotglucose.png)
+
+![Embarazos](images/newplot(1).png)
+
 ## Métricas de evaluación:
 
 - Precisión (Accuracy): 90.6%
