@@ -1,19 +1,19 @@
-# Proyecto de Predicción de Diabetes en Mujeres
+# Proyecto de Predicción de Diabetes en Mujeres🏥
 
-## Recursos
+## Recursos🔗
 - [Presentación](https://www.canva.com/design/DAGUfZruTUY/ERn-bJsmliQ2zy1d-wo9vg/view?utm_content=DAGUfZruTUY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Autor:
   - `Jose Angel Martin Galeote` - [Linkedin](https://www.linkedin.com/in/jose-martin-galeote/)
 
-## Descripción del Proyecto
+## Descripción del Proyecto	📄
 El objetivo de este proyecto es predecir si un paciente tiene diabetes o no, basándonos en datos médicos. Utilizamos el dataset de Pima Indians disponible en Kaggle, y se aplican técnicas de análisis de datos y machine learning para crear un modelo predictivo con alta precisión.
 
 El modelo principal utilizado en este proyecto es LightGBM, un algoritmo eficiente y rápido basado en el método de boosting.
 
-## Dataset
+## Dataset📁
 El conjunto de datos utilizado es el famoso Pima Indians Diabetes Database, que contiene datos sobre mujeres de herencia Pima Indian que tienen al menos 21 años. Cada registro contiene 8 características médicas y una columna de salida que indica si el paciente tiene diabetes.
 
-## Contenido del Proyecto
+## Contenido del Proyecto📎
 Este repositorio contiene los siguientes archivos y carpetas:
 
 - `Diabetes Woman Prediction.ipynb`: El cuaderno Jupyter que contiene todo el análisis, desde la carga de datos hasta la evaluación de los modelos.
@@ -22,7 +22,7 @@ Este repositorio contiene los siguientes archivos y carpetas:
 - `README.md`: Este archivo con la descripción del proyecto.
 - `bot_telegram.py`: Archivo de python para crear el chatbot que de momento no funciona.
   
-## Columnas del dataset:
+## Columnas del dataset:📉
 El dataset utilizado proviene de [esta pagina de Kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset/data) y contiene información médica de pacientes, como:
 
 - **Pregnancies**: Número de embarazos.
@@ -52,7 +52,7 @@ Puedes instalar todas las dependencias usando el archivo requirements.txt:
 pip install -r requirements.txt
 ```
 
-# Estructura del Proyecto
+# Estructura del Proyecto📐
 
 ## Limpieza de Datos:
 
@@ -87,7 +87,7 @@ Se utiliza LightGBM como el modelo principal, debido a su capacidad para manejar
 ![Model perfomance report](images/newplot2.png)
 
 
-## Cómo Ejecutar el Proyecto
+## Cómo Ejecutar el Proyecto💻
 
 Clona este repositorio:
 ```bash
@@ -101,13 +101,13 @@ pip install -r requirements.txt
 
 Ejecuta el archivo Diabetes Woman Prediction.ipynb en un entorno de Jupyter Notebook para realizar el análisis completo.
 
-## Próximos Pasos
+## Próximos Pasos👞👞
 
 - Ampliar el análisis a otros datasets.
 - Mejorar la interpretabilidad del modelo.
 - Explorar otros algoritmos de machine learning.
 - Terminar y mejorar el chatbot sobre diabetes.
 
-## Contribuciones
+## Contribuciones🍻🍻
 
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o crea un pull request explicando las mejoras o problemas que has encontrado.
