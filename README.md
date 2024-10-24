@@ -59,12 +59,6 @@ pip install -r requirements.txt
 - Eliminación de duplicados y valores irrelevantes.
 - Filtrado de categorías innecesarias.
 - Verificación de valores nulos.
-
-## Análisis Exploratorio de Datos (EDA):
-
-- Estadísticas descriptivas de las variables.
-- Mapas de calor para visualizar correlaciones entre las características.
-- Análisis de la distribución de la variable objetivo (diabetes).
   
 ## Modelo de Machine Learning:
 
@@ -87,6 +81,9 @@ Se utiliza LightGBM como el modelo principal, debido a su capacidad para manejar
 - Precisión (Accuracy): 90.6%
 - AUC (Area Under the Curve): 0.906
 - Matriz de confusión: La matriz de confusión muestra los verdaderos positivos y negativos para evaluar la efectividad del modelo.
+
+![Model perfomance report](images/newplot2.png)
+
 
 ## Cómo Ejecutar el Proyecto
 
