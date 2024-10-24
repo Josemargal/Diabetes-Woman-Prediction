@@ -35,7 +35,7 @@ El dataset utilizado proviene de [esta pagina de Kaggle](https://www.kaggle.com/
 - **Age:**: Edad.
 - **Outcome:**: 0 o 1 (Indica si el paciente tiene diabetes o no).
 
-## Instalación y Requisitos
+## Instalación y Requisitos 📊
 Para ejecutar este proyecto, necesitarás las siguientes librerías de Python:
 
 ```bash
