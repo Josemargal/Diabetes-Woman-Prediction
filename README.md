@@ -1,7 +1,7 @@
 # Proyecto de Predicción de Diabetes en Mujeres
 
 ## Recursos
-- [Presentación](https://www.canva.com/design/DAGTKOzydqQ/XMEvLCtiUeHIEc4Y5frylg/view?utm_content=DAGTKOzydqQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Presentación](https://www.canva.com/design/DAGUfZruTUY/ERn-bJsmliQ2zy1d-wo9vg/view?utm_content=DAGUfZruTUY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Autor:
   - `Jose Angel Martin Galeote` - [Linkedin](https://www.linkedin.com/in/jose-martin-galeote/)
 
@@ -35,7 +35,7 @@ El dataset utilizado proviene de [esta pagina de Kaggle](https://www.kaggle.com/
 - **Age:**: Edad.
 - **Outcome:**: 0 o 1 (Indica si el paciente tiene diabetes o no).
 
-## Instalación y Requisitos
+## Instalación y Requisitos 📊
 Para ejecutar este proyecto, necesitarás las siguientes librerías de Python:
 
 ```bash
@@ -59,12 +59,6 @@ pip install -r requirements.txt
 - Eliminación de duplicados y valores irrelevantes.
 - Filtrado de categorías innecesarias.
 - Verificación de valores nulos.
-
-## Análisis Exploratorio de Datos (EDA):
-
-- Estadísticas descriptivas de las variables.
-- Mapas de calor para visualizar correlaciones entre las características.
-- Análisis de la distribución de la variable objetivo (diabetes).
   
 ## Modelo de Machine Learning:
 
@@ -82,11 +76,16 @@ Se utiliza LightGBM como el modelo principal, debido a su capacidad para manejar
 - El modelo entrenado alcanza una precisión (accuracy) de alrededor del 90%, lo que significa que puede predecir correctamente si un paciente tiene diabetes o no en 9 de cada 10 casos..
 - Las variables más importantes para predecir la diabetes fueron los niveles de glucosa en sangre y los embarazos.
 
+![Niveles de glucosa](images/newplotglucose.png)
+
 ## Métricas de evaluación:
 
 - Precisión (Accuracy): 90.6%
 - AUC (Area Under the Curve): 0.906
 - Matriz de confusión: La matriz de confusión muestra los verdaderos positivos y negativos para evaluar la efectividad del modelo.
+
+![Model perfomance report](images/newplot2.png)
+
 
 ## Cómo Ejecutar el Proyecto
 
