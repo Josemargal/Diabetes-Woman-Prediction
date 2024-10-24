@@ -1,7 +1,7 @@
 # Proyecto de Predicción de Diabetes en Mujeres
 
 ## Recursos
-- [Presentación](https://www.canva.com/design/DAGTKOzydqQ/XMEvLCtiUeHIEc4Y5frylg/view?utm_content=DAGTKOzydqQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Presentación](https://www.canva.com/design/DAGUfZruTUY/ERn-bJsmliQ2zy1d-wo9vg/view?utm_content=DAGUfZruTUY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Autor:
   - `Jose Angel Martin Galeote` - [Linkedin](https://www.linkedin.com/in/jose-martin-galeote/)
 
