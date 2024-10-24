@@ -78,7 +78,7 @@ Se utiliza LightGBM como el modelo principal, debido a su capacidad para manejar
 
 ![Niveles de glucosa](images/newplotglucose.png)
 
-![Embarazos](images/newplot(1).png)
+![Embarazos](images/newplot (1).png)
 
 ## Métricas de evaluación:
 
