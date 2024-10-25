@@ -1,4 +1,4 @@
-# Proyecto de Predicción de Diabetes en Mujeres🏥
+# Predicción de Diabetes en Mujeres🏥
 
 ## Recursos🔗
 - [Presentación](https://www.canva.com/design/DAGUfZruTUY/ERn-bJsmliQ2zy1d-wo9vg/view?utm_content=DAGUfZruTUY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
